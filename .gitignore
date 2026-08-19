@@ -1,0 +1,5 @@
+*.ps1
+*.js.tmp
+fix_utf8.js
+embed_image.ps1
+fix_encoding.ps1
